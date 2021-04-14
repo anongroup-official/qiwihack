@@ -26,7 +26,7 @@ def banner():
 	print(Fore.CYAN + "  by @wannadeauth | @wannadeauth_chat (telegram)")
 	print("-------------------------------------------------\n\n")
 print(Fore.YELLOW + " [1] QIWI API (web version) | веб версия\n")
-print(Fore.ORANGE + " [2] QIWI API (terminal) | в терминале\n")
+print(Fore.RED + " [2] QIWI API (terminal) | в терминале\n")
 print(Fore.BLUE + " [3] Fishing fake site | фишинг \n\n")
 
 a = input(Fore.GREEN + " Change parametr | Выберите параметр: ")
